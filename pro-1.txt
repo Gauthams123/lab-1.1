@@ -13,4 +13,4 @@ vvce
 mysore
 gautham
 hii karan 
-git init
+man
